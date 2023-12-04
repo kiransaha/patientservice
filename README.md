@@ -2,7 +2,7 @@
 
 Simple patient hub service with provides a CRUD operation on patient.
 
-# Patient Hub Service
+# Patients Service
 
 Patient Hub Service is a robust and scalable solution designed to streamline patient management and enhance healthcare services. This service empowers healthcare providers to efficiently manage patient data, appointments, and medical history, ensuring a seamless experience for both patients and healthcare professionals.
 
@@ -19,14 +19,18 @@ To install Patients Service, follow these steps:
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/manvyada/patient-hub-service.git
+   git clone https://github.com/kiransaha/patientservice.git
    ```
-
-3. **Run the Service:**
+2. **Run application:**
+    ```
+   go to directory "patientservice/patientsService/src/main/java/com/patient/project/"
+    build and run application file named "PatientsServiceApplication.java"
+   ```
+4. **Run the Service:**
    ```
    using your favourite IDE such as Eclipse , import the project folder and run it as java application.
    ```
-
+   
    The service will be accessible at `http://localhost:8080`.
 
 ## Usage
